@@ -6,7 +6,7 @@ body {
 
 .caja_imagen {
     display: inline-block;
-    width: 30%;
+    width: 50%;
     vertical-align: middle;
 }
 
@@ -26,7 +26,7 @@ img {
     width: 30%;
     border-radius: 999px;
     border-color: #f0ffff;
-    
+
 }
 
 
